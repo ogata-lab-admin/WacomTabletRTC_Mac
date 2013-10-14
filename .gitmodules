@@ -1,0 +1,3 @@
+[submodule "rtmsdk-mac"]
+	path = rtmsdk-mac
+	url = git://github.com/ogata-lab/rtmsdk-mac
